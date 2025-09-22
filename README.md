@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am Abdullah Khan a.k.a Callous-Code<br><br>
-I am currently practicing Python by making projects<br><br>
+I am currently working on mastering Python by making projects<br><br>
 
 
 ## 🌐 Socials:
